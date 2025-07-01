@@ -1,1 +1,1 @@
-Practice work with Git software
+Practice work with Git software"I am beginning to understand Git!" 
